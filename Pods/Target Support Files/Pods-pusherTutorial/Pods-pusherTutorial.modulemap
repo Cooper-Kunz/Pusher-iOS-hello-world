@@ -1,0 +1,6 @@
+framework module Pods_pusherTutorial {
+  umbrella header "Pods-pusherTutorial-umbrella.h"
+
+  export *
+  module * { export * }
+}
